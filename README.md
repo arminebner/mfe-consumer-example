@@ -1,10 +1,8 @@
+# Mfes using module federation
+
 example usecase of module federation in vue using "@originjs/vite-plugin-federation".
 this is the consuming component
 
-# Vue 3 + Vite
+## see running on google cloud - cloud run
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- https://fe-consumer-image-6yjtu3mr4q-ew.a.run.app/
